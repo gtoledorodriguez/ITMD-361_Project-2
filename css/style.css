@@ -31,6 +31,8 @@ body {
 h1, h2, h3, h4{
   width: max-content;
   background-color: #CCCCFF;
+  padding: 1em;
+  margin: .5em
 }
 
 .index-bc{
@@ -53,5 +55,5 @@ h1, h2, h3, h4{
 
 div{
 
-  margin: .5em;
+  margin: 1em;
 }
