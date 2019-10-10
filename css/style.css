@@ -1,3 +1,7 @@
 #nav-bar{
   background-color: blue;
 }
+
+nav.nav-bar li{
+  display: inline;
+}
