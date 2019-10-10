@@ -1,13 +1,12 @@
 .nav-bar{
   margin:0;
   padding: 0;
-  color: white;
   background-color: #660066;
   overflow: hidden;
   text-align: center;
   list-style-type: none;
-  border: 1em solid red;
-
+  border: .1em solid white;
+  border-width: 1em thick red;
 }
 
 .nav-bar li{
