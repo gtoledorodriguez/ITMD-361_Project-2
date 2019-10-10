@@ -1,3 +1,4 @@
-#nav-bar{
+nav, h1{
+  color: red;
   background-color: blue;
 }
