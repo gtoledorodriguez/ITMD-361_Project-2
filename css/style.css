@@ -1,20 +1,25 @@
 #nav-bar{
+  margin:
   color: #C1C8E4;
   background-color: #8860D0;
+  overflow: hidden;
+  padding: 1em;
 }
 
 #nav-bar li{
   display: inline;
 }
 
+body {
+  background-color: #E6FFFF;
+}
 .index-bc{
-  background-color: #5AB9EA;
+
 }
 .pets-bc{
-  background-color: #5680E9;
+
 }
 .resume-bc{
-  background-color: #e6ffff;
   font-family: 'Lora', "Times New Roman", serif;
 }
 
