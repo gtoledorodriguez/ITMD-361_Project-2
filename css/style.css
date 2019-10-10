@@ -1,13 +1,14 @@
-#nav-bar{
+.nav-bar{
   margin:0;
-  color: #C1C8E4;
-  background-color: #8860D0;
-  overflow: hidden;
   padding: 0;
+  color: white;
+  background-color: #660066;
+  overflow: hidden;
   text-align: center;
+  list-style-type: none;
 }
 
-#nav-bar li{
+.nav-bar li{
   display: inline;
 }
 
