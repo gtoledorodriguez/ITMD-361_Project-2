@@ -6,3 +6,13 @@
 #nav-bar li{
   display: inline;
 }
+
+.index-bc{
+  background-color: #5AB9EA;
+}
+.pets-bc{
+  background-color: #5680E9;
+}
+.resume-bc{
+  background-color: #84CEEB;
+}
