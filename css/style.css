@@ -21,3 +21,7 @@
 .span-u {
   text-decoration: underline;
 }
+
+.span-strong{
+  font-weight: 600;
+}
