@@ -27,6 +27,11 @@
 body {
   background-color: #E6FFFF;
 }
+
+h1, h2, h3, h4{
+  background-color: #CCCCFF;
+}
+
 .index-bc{
 
 }
@@ -46,6 +51,6 @@ body {
 }
 
 div{
-  background-color: #CCCCFF;
+
   margin: .5em;
 }
