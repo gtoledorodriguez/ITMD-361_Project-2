@@ -6,10 +6,18 @@
   overflow: hidden;
   text-align: center;
   list-style-type: none;
+  border: 1em solid red;
+
 }
 
 .nav-bar li{
   display: inline;
+}
+
+.nav-bar a{
+  display: inline-block;
+  color: white;
+  padding: 1em;
 }
 
 body {
