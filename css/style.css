@@ -113,7 +113,7 @@ div{
 }
 
 .angel{
-  border-style: dashed;
+  border-style: solid;
   border-color: black;
   border-width: thick;
   margin: auto;
