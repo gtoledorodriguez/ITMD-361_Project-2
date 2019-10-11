@@ -44,10 +44,8 @@ div{
   margin-left: 1.1em;
 }
 .align-center{
-  text-align: center;
-}
-.align-left{
-  text-align: left;
+  margin: auto;
+  width: 60%
 }
 
 .float-left{
