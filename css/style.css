@@ -87,6 +87,39 @@ div{
   text-align: center;
 }
 
+.education-color{
+  color: #990000; /*dark red*/
+  text-align: center;
+}
+
+.courses-color{
+  color: #CC6600; /*dark orange*/
+  text-align: center;
+}
+
+.skills-color{
+  color: #CC9900; /*dark yellow*/
+  text-align: center;
+}
+
+.p-ex-color{ /*dark green*/
+  color: #336600;
+  text-align: center;
+}
+
+.l-ex-color{ /*dark blue*/
+  color: #003366;
+  text-align: center;
+}
+
+.projects-color{ /*dark indigo*/
+  color: #000066;
+}
+
+.e-a-color{ /*dark purple*/
+  color: #660066;
+  text-align: center;
+}
 
 /*pets.html*/
 .pets-p{
