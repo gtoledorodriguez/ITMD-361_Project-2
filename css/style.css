@@ -29,7 +29,7 @@ body {
 
 h1, h2, h3, h4{
   background-color: #CCCCFF;
-  width: max-content;
+
 }
 
 h1{
@@ -129,6 +129,7 @@ div{
 }
 .playball{
   font-family: 'Playball', "Times New Roman", serif, cursive;
+  width: max-content;
 }
 
 .Inconsolata{
