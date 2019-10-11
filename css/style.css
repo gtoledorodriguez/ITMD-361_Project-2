@@ -22,9 +22,6 @@
   text-decoration: none;
 }
 
-h1{
-  text-align: center;
-}
 
 body {
   background-color: #E6FFFF;
@@ -34,6 +31,10 @@ h1, h2, h3, h4{
   background-color: #CCCCFF;
   margin-left: .5em;
   width: max-content;
+}
+
+h1{
+  text-align: center;
 }
 
 .span-u {
@@ -69,9 +70,11 @@ div{
 .about-me{
   text-align: left;
 }
-
 .hi-color{
   color: #0000CC;
+}
+h1.hi-color, h2.hi-color, h3.hi-color{
+  text-align: center;
 }
 /*resume.html*/
 .resume-bc{
@@ -82,6 +85,8 @@ div{
   color: #003366;
   text-align: center;
 }
+
+
 /*pets.html*/
 .pets-p{
   margin: auto;
@@ -94,4 +99,12 @@ div{
 
 .hp-color{
   color: #FF3399;
+}
+
+.zafi, .luna{
+  text-align: left;
+}
+
+.angel{
+  text-align: right;
 }
