@@ -1,3 +1,4 @@
+/*Applies to all*/
 .nav-bar{
   margin:0;
   padding: 0;
@@ -26,14 +27,9 @@ body {
 }
 
 h1, h2, h3, h4{
-
   background-color: #CCCCFF;
   margin-left: .5em;
   width: max-content;
-}
-
-.resume-bc{
-  font-family: 'Lora', "Times New Roman", serif;
 }
 
 .span-u {
@@ -46,5 +42,17 @@ h1, h2, h3, h4{
 
 div{
   margin-left: 1.1em;
-
 }
+
+/*index.html*/
+
+.about-me{
+  text-align: center;
+}
+/*resume.html*/
+.resume-bc{
+  font-family: 'Lora', "Times New Roman", serif;
+}
+
+
+/*pets.html*/
