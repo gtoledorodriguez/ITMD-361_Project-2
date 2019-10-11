@@ -77,6 +77,22 @@ div{
   margin-left: .5em;
 }
 
+.border1{
+  border-style: dashed;
+  border-color: silver;
+  border-radius: .4em;
+  border-width: medium;
+  padding: .25em;
+}
+
+.border2{
+  border-style: solid;
+  border-color: black;
+  border-radius: 1em;
+  border-width: thick;
+  padding: .1em;
+}
+
 /*resume.html*/
 .resume-bc{
   font-family: 'Lora', "Times New Roman", serif;
