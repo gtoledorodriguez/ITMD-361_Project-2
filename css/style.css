@@ -43,7 +43,12 @@ h1, h2, h3, h4{
 div{
   margin-left: 1.1em;
 }
-
+.align-center{
+  text-align: center;
+}
+.align-left{
+  text-align: left;
+}
 /*index.html*/
 
 .about-me{
