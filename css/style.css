@@ -31,17 +31,11 @@ body {
 h1, h2, h3, h4{
 
   background-color: #CCCCFF;
-  padding: 1em;
+  padding: .1em;
   width: max-content;
   margin: .5em
 }
 
-.index-bc{
-
-}
-.pets-bc{
-
-}
 .resume-bc{
   font-family: 'Lora', "Times New Roman", serif;
 }
@@ -56,5 +50,5 @@ h1, h2, h3, h4{
 
 div{
 
-  margin: 1.5em;
+  margin: .5em;
 }
