@@ -9,8 +9,8 @@
   overflow: hidden;
   text-align: center;
   list-style-type: none;
-  border: 10% solid white;
-  border-width: 100% thick red;
+  border: .1em solid white;
+  border-width: 1em thick red;
 }
 
 .nav-bar li{
@@ -20,7 +20,7 @@
 .nav-bar a{
   display: inline-block;
   color: white;
-  padding: 100%;
+  padding: 1em;
   text-decoration: none;
 }
 
@@ -48,5 +48,6 @@ h1, h2, h3, h4{
 }
 
 div{
-  margin-left: 100%;
+
+  margin: 1em;
 }
