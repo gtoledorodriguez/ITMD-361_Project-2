@@ -60,18 +60,31 @@ div{
 .float-right{
   float: right;
 }
-/*index.html*/
 
+.text-center{
+  text-align: center;
+}
+/*index.html*/
 .about-me{
   text-align: left;
+}
+
+.hi-color{
+  color: #0000CC;
 }
 /*resume.html*/
 .resume-bc{
   font-family: 'Lora', "Times New Roman", serif;
 }
 
-
+.hr-color{
+  color: #003366;
+}
 /*pets.html*/
 .playball{
   font-family: 'Playball', "Times New Roman", serif, cursive;
+}
+
+.hp-color{
+  color: #FF3399;
 }
