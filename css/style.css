@@ -43,6 +43,7 @@ h1, h2, h3, h4{
 div{
   margin-left: 1.1em;
 }
+
 .align-center{
   margin: auto;
   width: 60%
@@ -58,7 +59,7 @@ div{
 /*index.html*/
 
 .about-me{
-  text-align: center;
+  text-align: left;
 }
 /*resume.html*/
 .resume-bc{
