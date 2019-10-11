@@ -98,6 +98,10 @@ div{
   font-family: 'Playball', "Times New Roman", serif, cursive;
 }
 
+.Inconsolata{
+  font-family: 'Inconsolata', serif, monospace;
+}
+
 .hp-color{
   color: #FF3399;
 }
