@@ -7,7 +7,7 @@
   text-align: center;
   list-style-type: none;
   border: .1em solid white;
-  border-width: 1em thick red;
+  border-width: thick;
   font-family: "Times New Roman", serif, monospace;
 }
 
@@ -146,7 +146,7 @@ div{
 /*pets.html*/
 .pets-p{
   margin: auto;
-  width: 60%
+  width: 60%;
   border: .2em solid;
 }
 .playball{
