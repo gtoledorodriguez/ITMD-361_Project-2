@@ -22,6 +22,10 @@
   text-decoration: none;
 }
 
+h1{
+  text-align: center;
+}
+
 body {
   background-color: #E6FFFF;
 }
