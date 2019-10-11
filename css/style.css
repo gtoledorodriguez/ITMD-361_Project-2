@@ -29,7 +29,6 @@ body {
 
 h1, h2, h3, h4{
   background-color: #CCCCFF;
-  margin-left: .5em;
   width: max-content;
 }
 
@@ -72,6 +71,10 @@ div{
 }
 .hi-color{
   color: #0000CC;
+
+}
+.left-em{
+  margin-left: .5em;
 }
 
 /*resume.html*/
