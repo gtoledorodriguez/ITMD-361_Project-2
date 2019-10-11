@@ -71,6 +71,7 @@ div{
 }
 .hi-color{
   color: #0000CC;
+  font-family: 'Prata', serif, monospace;
 
 }
 .left-em{
@@ -91,6 +92,10 @@ div{
   border-radius: 1em;
   border-width: thick;
   padding: .1em;
+}
+
+.curr-jobs, .other-act, .fav-books, .fav-shows, .fav-games{
+  font-family: 'Cousine', monospace, serif;
 }
 
 /*resume.html*/
