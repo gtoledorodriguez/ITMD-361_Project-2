@@ -83,6 +83,10 @@ div{
   font-family: 'Lora', "Times New Roman", serif;
 }
 
+.img-center{
+  text-align: center;
+}
+
 /*index.html*/
 .about-me{
   text-align: left;
