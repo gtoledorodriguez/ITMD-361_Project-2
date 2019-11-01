@@ -1,21 +1,21 @@
 /*Applies to all*/
-.nav-bar{
+nav{
   margin:0;
   padding: 0;
   background-color: #660066;
   overflow: hidden;
   text-align: center;
   list-style-type: none;
-  border: .1em solid white;
+  /*border: .1em solid white;*/
   border-width: thick;
   font-family: "Times New Roman", serif, monospace;
 }
 
-.nav-bar li{
+nav li{
   display: inline;
 }
 
-.nav-bar a{
+nav a{
   display: inline-block;
   color: white;
   padding: 1em;
@@ -24,7 +24,7 @@
 
 
 body {
-  background-color: #E6FFFF;
+  background-color: #D0FEF5;
 }
 
 h1, h2, h3, h4{
