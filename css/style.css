@@ -2,6 +2,7 @@
 nav{
   margin:0;
   padding: 0;
+  color: #A9FFF7;
   background-color: #660066;
   overflow: hidden;
   text-align: center;
@@ -9,8 +10,8 @@ nav{
   /*border: .1em solid white;*/
   border-width: thick;
   font-family: "Times New Roman", serif, monospace;
-  color: #B8E1FF;
-  /*#D1D1D1  -  gray color*/
+  /*color: #B8E1FF;
+  #D1D1D1  -  gray color*/
 }
 
 nav li{
@@ -24,6 +25,13 @@ nav a{
   text-decoration: none;
 }
 
+table, th, td{
+  border: 1px solid;
+  border-color: red;
+  width: 70%;
+  text-align: left;
+  margin: auto;
+}
 
 body {
   background-color: #D0FEF5;
@@ -112,7 +120,7 @@ div{
 }
 
 .education-color, .courses-color, .skills-color, .p-ex-color, .l-ex-color, .projects-color, .e-a-color{
-  color: #A9FFF7;
+  color: #211103;
   text-align: center;
 }
 /*
@@ -151,6 +159,7 @@ div{
   text-align: center;
 }
 */
+
 /*pets.html*/
 .pets-p{
   margin: auto;
@@ -164,6 +173,7 @@ div{
 
 .Inconsolata{
   font-family: 'Inconsolata', serif, monospace;
+  color: #003366;
 }
 
 .hp-color{
