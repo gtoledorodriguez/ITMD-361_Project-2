@@ -29,7 +29,7 @@ table{
 }
 table, td{
   border: 1px solid;
-  border-color: red;
+  border-color: transparent;
   width: auto;
 
   text-align: left;
