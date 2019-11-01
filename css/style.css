@@ -28,7 +28,7 @@ nav a{
 table, th, td{
   border: 1px solid;
   border-color: red;
-  width: 70%;
+  width: auto;
   text-align: left;
   margin: auto;
 }
