@@ -212,3 +212,44 @@ div{
   width: 60%;
   text-align: right;
 }
+
+/*fixed pets.html*/
+.fixedpets-p{
+  margin: 20px;
+  width: 200px;
+  /*border: .2em solid;*/
+}
+.fixedplayball{
+  font-family: 'Playball', "Times New Roman", serif, cursive;
+  width: 100px;
+}
+
+.fixedInconsolata{
+  font-family: 'Inconsolata', serif, monospace;
+  color: #003366;
+}
+
+.fixedhp-color{
+  color: #211103;
+  text-align: center;
+}
+
+.fixedzafi, .fixedluna{
+  border-style: solid;
+  border-color: gray;
+  border-width: 5px;
+  margin: 20px;
+  padding: 8px;
+  width: 200px;
+  text-align: left;
+}
+
+.fixedangel{
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  margin: 20px;
+  padding: 8px;
+  width: 200px;
+  text-align: right;
+}
