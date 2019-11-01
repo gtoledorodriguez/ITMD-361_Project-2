@@ -24,13 +24,16 @@ nav a{
   padding: 1em;
   text-decoration: none;
 }
-
-table, th, td{
+table{
+  width: 100%;
+}
+table, td{
   border: 1px solid;
-  border-color: red;
-  width: auto;
+  
+  width: 50px;
   text-align: left;
   margin: auto;
+  vertical-align: top;
 }
 
 body {
