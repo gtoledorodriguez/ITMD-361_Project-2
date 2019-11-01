@@ -29,8 +29,9 @@ table{
 }
 table, td{
   border: 1px solid;
-  border-color: transparent;
-  width: 100px;
+  border-color: red;
+  width: auto;
+
   text-align: left;
   margin: auto;
   vertical-align: top;
