@@ -214,6 +214,9 @@ div{
 }
 
 /*fixed pets.html*/
+body.fixed div{
+  margin-left: 17.6px;
+}
 .fixedpets-p{
   margin: 20px;
   width: 200px;
@@ -252,7 +255,4 @@ div{
   padding: 8px;
   width: 500px;
   text-align: right;
-}
-body.fixed div{
-  margin-left: 17.6px;
 }
