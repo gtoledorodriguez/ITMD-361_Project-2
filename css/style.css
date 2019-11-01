@@ -10,6 +10,7 @@ nav{
   border-width: thick;
   font-family: "Times New Roman", serif, monospace;
   color: #B8E1FF;
+  /*#D1D1D1  -  gray color*/
 }
 
 nav li{
@@ -71,7 +72,7 @@ div{
   text-align: left;
 }
 .hi-color{
-  color: #D1D1D1;
+  color: #878787;
   font-family: 'Prata', serif, monospace;
 
 }
@@ -149,7 +150,7 @@ div{
 .pets-p{
   margin: auto;
   width: 60%;
-  border: .2em solid;
+  /*border: .2em solid;*/
 }
 .playball{
   font-family: 'Playball', "Times New Roman", serif, cursive;
@@ -161,7 +162,7 @@ div{
 }
 
 .hp-color{
-  color: #FF3399;
+  color: #211103;
   text-align: center;
 }
 
