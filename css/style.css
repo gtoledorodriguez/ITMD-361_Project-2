@@ -78,13 +78,17 @@ div{
   text-align: center;
 }
 
+.lora-font{
+  font-family: 'Lora', "Times New Roman", serif;
+}
+
 /*index.html*/
 .about-me{
   text-align: left;
 }
 .hi-color{
   color: #211103;
-  font-family: 'Prata', serif, monospace;
+  font-family: 'Lora', "Times New Roman", serif;
 
 }
 .left-em{
