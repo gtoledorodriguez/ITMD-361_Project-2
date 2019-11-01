@@ -9,6 +9,7 @@ nav{
   /*border: .1em solid white;*/
   border-width: thick;
   font-family: "Times New Roman", serif, monospace;
+  color: #B8E1FF;
 }
 
 nav li{
@@ -28,7 +29,7 @@ body {
 }
 
 h1, h2, h3, h4{
-  background-color: #CCCCFF;
+  background-color: #BCB6FF;
 
 }
 
@@ -70,7 +71,7 @@ div{
   text-align: left;
 }
 .hi-color{
-  color: #0000CC;
+  color: #D1D1D1;
   font-family: 'Prata', serif, monospace;
 
 }
@@ -95,7 +96,8 @@ div{
 }
 
 .curr-jobs, .other-act, .fav-books, .fav-shows, .fav-games{
-  font-family: 'Cousine', monospace, serif;
+  /*font-family: 'Cousine', monospace, serif;*/
+
 }
 
 /*resume.html*/
