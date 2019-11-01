@@ -20,7 +20,7 @@ nav li{
 
 nav a{
   display: inline-block;
-  color: #A9FFF7;
+  color: white;
   padding: 1em;
   text-decoration: none;
 }
@@ -29,8 +29,8 @@ table{
 }
 table, td{
   border: 1px solid;
-
-  width: 50px;
+  border-color: transparent;
+  width: 100px;
   text-align: left;
   margin: auto;
   vertical-align: top;
